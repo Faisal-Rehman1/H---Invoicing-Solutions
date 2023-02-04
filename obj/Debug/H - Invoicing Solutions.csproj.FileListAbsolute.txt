@@ -1,0 +1,234 @@
+c:\users\hammad arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.exe.config
+c:\users\hammad arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.exe
+c:\users\hammad arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.pdb
+c:\users\hammad arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Properties.Resources.resources
+c:\users\hammad arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.GenerateResource.Cache
+c:\users\hammad arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.exe
+c:\users\hammad arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.pdb
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csprojResolveAssemblyReference.cache
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.login.resources
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Main.resources
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.loading.resources
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Inventory.resources
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Generatebill.resources
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.settings.resources
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.billing.resources
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.challan.resources
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.reports.resources
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\mydatabase.mdf
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\mydatabase_log.ldf
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.backupwindow.resources
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.exe.manifest
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.application
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.exe.manifest
+C:\Users\Hammad Arain\documents\visual studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.application
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\Microsoft.VisualBasic.PowerPacks.Design.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\Humanizer.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\Humanizer.xml
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\af\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\ar\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\az\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\bg\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\cs\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\da\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\de\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\el\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\es\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\fa\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\fr\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\he\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\hr\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\hu\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\id\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\is\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\it\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\ja\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\ko-KR\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\ku\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\lv\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\ms-MY\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\mt\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\nb\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\nl\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\pl\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\pt\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\ro\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\ru\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\sk\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\sl\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\sr\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\sv\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\th-TH\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\tr\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\uk\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\vi\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Users\Hammad Arain\Documents\Visual Studio 2012\Projects\H - Invoicing Solutions\H - Invoicing Solutions\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\mydatabase.mdf
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\mydatabase_log.ldf
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.exe.config
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.exe.manifest
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.application
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.exe
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.pdb
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\Humanizer.xml
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\af\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\ar\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\az\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\bg\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\cs\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\da\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\de\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\el\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\es\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\fa\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\fr\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\he\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\hr\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\hu\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\id\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\is\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\it\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\ja\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\ko-KR\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\ku\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\lv\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\ms-MY\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\mt\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\nb\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\nl\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\pl\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\pt\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\ro\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\ru\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\sk\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\sl\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\sr\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\sv\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\th-TH\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\tr\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\uk\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\vi\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.AssemblyReference.cache
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.backupwindow.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.billing.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.challan.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Generatebill.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.reports.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Inventory.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.loading.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.login.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Main.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Properties.Resources.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.settings.resources
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.GenerateResource.cache
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.exe.manifest
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.application
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.CopyComplete
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.exe
+C:\Users\Faisal Rehman\Downloads\Final Year Work\Project\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.pdb
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\mydatabase.mdf
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\mydatabase_log.ldf
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.exe.config
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.exe.manifest
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.application
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.exe
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\H - Invoicing Solutions.pdb
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\Humanizer.xml
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\af\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\ar\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\az\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\bg\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\bn-BD\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\cs\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\da\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\de\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\el\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\es\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\fa\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\fi-FI\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\fr\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\fr-BE\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\he\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\hr\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\hu\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\id\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\is\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\it\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\ja\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\ko-KR\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\ku\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\lv\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\ms-MY\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\mt\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\nb\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\nb-NO\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\nl\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\pl\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\pt\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\ro\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\ru\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\sk\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\sl\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\sr\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\sr-Latn\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\sv\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\th-TH\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\tr\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\uk\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\vi\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\zh-CN\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\zh-Hans\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\bin\Debug\zh-Hant\Humanizer.resources.dll
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.AssemblyReference.cache
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.backupwindow.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.billing.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.challan.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Generatebill.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.reports.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Inventory.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.loading.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.login.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Main.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.Properties.Resources.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H___Invoicing_Solutions.settings.resources
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.GenerateResource.cache
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.CoreCompileInputs.cache
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.exe.manifest
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.application
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.csproj.CopyComplete
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.exe
+C:\Users\Faisal Rehman\Downloads\FOR GITHUB\H - Invoicing Solutions\obj\Debug\H - Invoicing Solutions.pdb
